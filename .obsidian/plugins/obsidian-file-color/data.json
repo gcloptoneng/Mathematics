@@ -1,0 +1,221 @@
+{
+  "palette": [
+    {
+      "id": "67coXjM6VPpsKekQ1q5Dj",
+      "name": "red",
+      "value": "#ff7a7a"
+    },
+    {
+      "id": "1cZeUkC5_mtml2Wk3paS5",
+      "name": "yellow",
+      "value": "#989e42"
+    },
+    {
+      "id": "QoLYCkF46OG-ZPb-_nVYg",
+      "name": "",
+      "value": "#0091ff"
+    },
+    {
+      "id": "wTnXMCMaGH423M0hdMEHa",
+      "name": "",
+      "value": "#bffdfc"
+    },
+    {
+      "id": "HA7PbhRP_KdTfHBXSBIkk",
+      "name": "",
+      "value": "#ee00ff"
+    },
+    {
+      "id": "2OCGVbfsmgpGtXTThXltR",
+      "name": "",
+      "value": "#37ff00"
+    },
+    {
+      "id": "eyP5VH_9HGECITyDmTyNK",
+      "name": "",
+      "value": "#ffae00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Richard and Neil",
+      "color": "67coXjM6VPpsKekQ1q5Dj"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/images",
+      "color": "1cZeUkC5_mtml2Wk3paS5"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/Scripts",
+      "color": "67coXjM6VPpsKekQ1q5Dj"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/21 Neural Networks for Vision.md",
+      "color": "wTnXMCMaGH423M0hdMEHa"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/26 Graph Neural Networks.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/25 Transformers.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/19 Regularization.md",
+      "color": "QoLYCkF46OG-ZPb-_nVYg"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/18 Measuring Performance.md",
+      "color": "QoLYCkF46OG-ZPb-_nVYg"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/22 Convolutional Neural Networks.md",
+      "color": "wTnXMCMaGH423M0hdMEHa"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/27 Dimensionality Reduction.md",
+      "color": "QoLYCkF46OG-ZPb-_nVYg"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/9 Shallow Neural Networks Prince-3.md",
+      "color": "2OCGVbfsmgpGtXTThXltR"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/10 Linear Discriminant Analysis.md",
+      "color": "2OCGVbfsmgpGtXTThXltR"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/11 Logistic Regression.md",
+      "color": "2OCGVbfsmgpGtXTThXltR"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/12 Linear Regression.md",
+      "color": "2OCGVbfsmgpGtXTThXltR"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/13 Generalized Linear Models.md",
+      "color": "2OCGVbfsmgpGtXTThXltR"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/17 Gradients and Initialization.md",
+      "color": "QoLYCkF46OG-ZPb-_nVYg"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/16 Fitting Models.md",
+      "color": "QoLYCkF46OG-ZPb-_nVYg"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/15 Loss Functions.md",
+      "color": "QoLYCkF46OG-ZPb-_nVYg"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/14 Deep Neural Networks.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/8 Optimization.md",
+      "color": "HA7PbhRP_KdTfHBXSBIkk"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/7 Linear Algebra.md",
+      "color": "HA7PbhRP_KdTfHBXSBIkk"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/6 information theory.md",
+      "color": "HA7PbhRP_KdTfHBXSBIkk"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/5 decision theory.md",
+      "color": "HA7PbhRP_KdTfHBXSBIkk"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/4 Statistics.md",
+      "color": "HA7PbhRP_KdTfHBXSBIkk"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/2-2-probability-multivariate-models-aae470b4-02f2-45ff-9fea-9dd32b5b817e.md",
+      "color": "HA7PbhRP_KdTfHBXSBIkk"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/2-1-probability-univariate-models-a8ed34f6-e72d-4490-a166-591743771dd4.md",
+      "color": "HA7PbhRP_KdTfHBXSBIkk"
+    },
+    {
+      "path": "Richard and Neil/Deep Learning/prince/26 Graph Embeddings.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "0/Python/Chapters/6 The Dynamic Typing Interlude.md",
+      "color": "wTnXMCMaGH423M0hdMEHa"
+    },
+    {
+      "path": "0/Python/Chapters/13 While and For Loops.md",
+      "color": "67coXjM6VPpsKekQ1q5Dj"
+    },
+    {
+      "path": "0/Python/Chapters/14 Iterations and Comprehensions.md",
+      "color": "67coXjM6VPpsKekQ1q5Dj"
+    },
+    {
+      "path": "0/Python/Chapters/15 The Documentation Interlude.md",
+      "color": "wTnXMCMaGH423M0hdMEHa"
+    },
+    {
+      "path": "0/Python/Chapters/16 Function Basics.md",
+      "color": "QoLYCkF46OG-ZPb-_nVYg"
+    },
+    {
+      "path": "0/Python/Chapters/7 String Fundamentals.md",
+      "color": "67coXjM6VPpsKekQ1q5Dj"
+    },
+    {
+      "path": "0/Python/Chapters/8 Lists and Dictionaries.md",
+      "color": "67coXjM6VPpsKekQ1q5Dj"
+    },
+    {
+      "path": "0/Python/Chapters/9 Tuples, Files, and Everything Else.md",
+      "color": "67coXjM6VPpsKekQ1q5Dj"
+    },
+    {
+      "path": "0/Python/Chapters/10 Introducing Python Statements.md",
+      "color": "QoLYCkF46OG-ZPb-_nVYg"
+    },
+    {
+      "path": "0/Python/Chapters/4 Introducing Python Object Types.md",
+      "color": "QoLYCkF46OG-ZPb-_nVYg"
+    },
+    {
+      "path": "0/Python/Chapters/5 Numeric Types.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "0/Python/Chapters/11 Assignments, Expressions, and Prints.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "0/Python/Chapters/12 if Tests and Syntax Rules.md",
+      "color": "67coXjM6VPpsKekQ1q5Dj"
+    },
+    {
+      "path": "0/Python/Chapters/17 Scopes.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "0/Python/Chapters/18 Arguments.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "0/Python/Chapters/19 Advanced Function Topics.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "0/Python/Chapters/20 Comprehensions and Generations.md",
+      "color": "eyP5VH_9HGECITyDmTyNK"
+    },
+    {
+      "path": "0/Python/Chapters/21 The Benchmarking Interlude.md",
+      "color": "wTnXMCMaGH423M0hdMEHa"
+    }
+  ]
+}
