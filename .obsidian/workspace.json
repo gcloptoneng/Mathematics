@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/Bisection Method Problem 1.md",
+                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/3. Newton's Method/Newton's Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/Bisection Method Problem 1.md",
+                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/2. Fixed-Point Iteration/Fixed-Point Iteration.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/Bisection Method Problem 1.md",
+                "file": "General/19 Numerical Analysis/Topics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/Bisection Method Problem 1.md",
+                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/3. Newton's Method/Newton's Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/Bisection Method Problem 1.md",
+                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/3. Newton's Method/Newton's Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/Bisection Method Problem 1.md"
+                "file": "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/3. Newton's Method/Newton's Method.md"
               }
             }
           },
@@ -180,40 +179,43 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e4f41875f230aaf3",
+  "active": "1b842b2a3cf20390",
   "lastOpenFiles": [
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/images/Bisection_Method.ai",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/Horner's Scheme/Horner's Scheme 2.ai",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/Horner's Scheme/Horner's Scheme.ai",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/Horner's Scheme",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/3. Newton's Method/Newton's Method.ai",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/2. Fixed-Point Iteration/Fixed-Point Iteration.md",
+    "General/19 Numerical Analysis/Topics.md",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/3. Newton's Method/Newton's Method.md",
+    "Screenshot 2023-12-11 at 08.38.06.png",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/3. Newton's Method/images",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/3. Newton's Method/newtons_method.ipynb",
+    "General/20 Data Structures and Algorithms",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/2. Fixed-Point Iteration/solve_equation.wl",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/2. Fixed-Point Iteration/Images/Screenshot 2023-12-11 at 01.33.17.png",
+    "Pasted image 20231211013256.png",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/2. Fixed-Point Iteration/Images",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/1. Bisection Method/Bisection Method Problem 1.md",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/2. Fixed-Point Iteration/fixed-point_iteration.ipynb",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/1. Bisection Method/practice.ipynb",
     "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/Images/Screenshot 2023-12-04 at 07.32.34.png",
     "Partial Differential Equations/3.3 Solution of the One Dimensional Wave Equation.md",
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/Bisection Method Problem 1.md",
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/images/Bisection Method 1.png",
+    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/1. Bisection Method/images/Bisection Method 1.png",
     "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/Images/Sketch Fixed Point Iteration 1.png",
     "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.2 Solution of Polynomial Equations/19.1.2.1 Horner's Scheme.md",
     "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/Solutions.md",
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/3. Newton's Method",
     "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/Problems.md",
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/2. Fixed-Point Iteration",
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method/images",
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/1. Bisection Method",
     "General/19 Numerical Analysis/19.2 Numerical Solution of Systems of Equations/19.2.1 Systems of Linear Equations/4. Iteration Methods.md",
-    "General/2. Functions/3. Polynomials",
-    "General/2. Functions",
     "General/19 Numerical Analysis/19.2 Numerical Solution of Systems of Equations/19.2.1 Systems of Linear Equations/3. Orthogonalization Method.md",
     "General/19 Numerical Analysis/19.2 Numerical Solution of Systems of Equations/19.2.1 Systems of Linear Equations/2. Cholesky's Method for a Symmetric Coefficient Matrix.md",
     "General/19 Numerical Analysis/19.2 Numerical Solution of Systems of Equations/19.2.1 Systems of Linear Equations/1. Triangular Decomposition of a Matrix.md",
-    "General/19 Numerical Analysis/19.2 Numerical Solution of Systems of Equations/19.2.1 Systems of Linear Equations",
-    "General/19 Numerical Analysis/19.2 Numerical Solution of Systems of Equations",
     "Fixed Point Iteration 1.png",
     "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/Images/Fixed Point Iteration 1.png",
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.2 Solution of Polynomial Equations",
     "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/Images/Screenshot 2023-12-03 at 01.29.00.png",
     "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/Images/Pasted image 20231203021749.png",
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods",
     "Sketch Fixed Point Iteration.png.md",
-    "General/19 Numerical Analysis/19.1  Numerical Solution of Non-Linear Equations in a Single Unknown/19.1.1 Iteration Methods/Images/Pasted image 20231202212859.png",
-    "Sketch Fixed Point Iteration.png",
     "Pasted image 20231202214741.png.md",
-    "Pasted image 20231202214741.png",
     "Screenshot 2023-11-28 at 06.35.11.png.md",
     "Scratch.md",
     "General/16 Probability Theory and Mathematical Statistics/2 Probability Theory/4 Continuous Distributions/Solutions.md",

@@ -1,6 +1,6 @@
 
 
-1. Make plot for $f(x) = x^3 + 4x^2 - 10$, and use it to find the range in which the solution lies. Then use the bisection method to estimate the solution to a tolerance of $1 \times 10^{-5}$
+1. Make plot for $f(x) = x^3 + 4x^2 - 10$, and use it to find the range in which the solution lies. Then use the bisection method to estimate the solution to a tolerance of $1 \times 10^{-5}$. Find the roots of the polynomial using np.roots and compare the result to that of the bisection method.
 
 
 ```Python
@@ -93,8 +93,12 @@ def bisection_updated(a, b, tol, max_iter):
 root_updated, table_updated = bisection_updated(1, 2, 1e-5, 13)
 table_updated
 
-
 ```
 
 
+```Python
+coefficients = [1, 4, 0, -10]  
+roots = np.roots(coefficients)  
+print(roots)
+```
 
