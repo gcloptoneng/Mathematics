@@ -1,6 +1,7 @@
 
 
-1. Make plot for $f(x) = x^3 + 4x^2 - 10$, and use it to find the range over which the solution can be found.
+1. Make plot for $f(x) = x^3 + 4x^2 - 10$, and use it to find the range in which the solution lies. Then use the bisection method to estimate the solution to a tolerance of $1 \times 10^{-5}$
+
 
 ```Python
 import numpy as np
